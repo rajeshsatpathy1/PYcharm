@@ -1,0 +1,1 @@
+change the pathnames for haarcascades to current location for face detector to work
